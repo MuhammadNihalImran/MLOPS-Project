@@ -11,7 +11,7 @@
 ----------------------------------------------- MongoDB Setup -----------------------------------------------
 name = narutouzo248624
 passs =  MLOPS123  
-url = mongodb+srv://narutouzo248624:<db_password>@cluster0.2gb7gsf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+url = mongodb+srv://narutouzo248624:MLOPS123@cluster0.2gb7gsf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 5. Sign up to MongoDB Atlas and create a new project by just providing it a name then next next create.
 6. From "Create a cluster" screen, hit "create", Select M0 service keeping other services as default, hit "create deployment"
 7. Setup the username and password and then create DB user.
